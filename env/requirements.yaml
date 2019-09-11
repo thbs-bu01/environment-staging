@@ -13,6 +13,9 @@ dependencies:
 - name: rohan-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: spring-poc-project
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: subscription
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.28
