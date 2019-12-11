@@ -13,6 +13,9 @@ dependencies:
 - name: godigital-in-a-box-frontend
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: mycart-node
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: rohan-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
